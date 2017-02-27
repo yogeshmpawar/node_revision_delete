@@ -1,0 +1,6 @@
+name: Node Revision Delete
+type: module
+description: Track and prune node revisions.
+package: Content
+core: 8.x
+configure: node_revision_delete_settings
